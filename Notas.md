@@ -6,12 +6,12 @@ Notas de Lectura
 
 Código Bag of Words
 - Este código funciona en inglés por las stop words
-- Decidí que se finalica como matriz para tener un resultado más organizado
+- Decidí que se finalice como matriz para tener un resultado más organizado
 
 Gráfica 1
-- El tono del amarillo está desfasado, no encontré el tono adecuado
 - El eje x no lo logré modificar al orden correcto
-- No conseguí encontrar una fórmula que me funcione para interpolar la gráfica
+- No conseguí encontrar una fórmula que me funcione para el moving average de 
+  la gráfica
 
 Gráfica 2
 - El formato del total encima de las barras debe ser corregido
